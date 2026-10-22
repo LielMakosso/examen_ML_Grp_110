@@ -1,0 +1,25 @@
+{
+    "date": "2026-10-22 04:01:44",
+    "versions": {
+        "python": "3.12.9",
+        "scikit_learn": "1.9.1",
+        "joblib": "1.6.0"
+    },
+    "variables_attendues": [
+        "age",
+        "sex",
+        "bmi",
+        "bp",
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6"
+    ],
+    "metriques_test": {
+        "MAE": 42.79,
+        "RMSE": 53.85,
+        "R2": 0.4526
+    }
+}
