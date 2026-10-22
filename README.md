@@ -11,3 +11,4 @@ Ce projet utilise **Python 3.12** et le gestionnaire de paquets **`uv`**.
    ```bash
    git clone https://github.com/lielmakosso/examen_ML_Grp_110
    cd examen_ML_Grp_110
+   uv sync
