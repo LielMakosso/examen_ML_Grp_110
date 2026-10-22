@@ -9,5 +9,5 @@ Ce projet utilise **Python 3.12** et le gestionnaire de paquets **`uv`**.
 
 1. Cloner le dépôt :
    ```bash
-   git clone <lien_de_ton_depot>
+   git clone https://github.com/lielmakosso/examen_ML_Grp_110
    cd examen_ML_Grp_110
